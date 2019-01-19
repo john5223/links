@@ -36,10 +36,11 @@ https://www.pipelinedb.com/
 https://winand.at/newsletter/2018-12/consistency-cloud-jit
 
 https://www.memsql.com/blog/cache-is-the-new-ram/
-Cache Is The New RAM
-Carlos Bueno
-MemSql Blog
-Quotes:
+
+Cache Is The New RAM \
+Carlos Bueno \
+MemSql Blog \
+Quotes: 
     
     That hot spare was too tempting to leave sitting idle, of course. Once the business analysts realized they could run gigantic queries on live production data without touching production, the so-called “hot spare” became nearly as busy and mission-critical as the production copy. We told ourselves it would be fine because if the spare is ever needed we can just take it from them for the duration of the emergency. But that’s like saying you don’t really need to carry a spare tire because you can always steal one from another car.
     
@@ -55,8 +56,9 @@ https://www.memsql.com/blog/why-nosql-databases-wrong-tool-for-modern-applicatio
 
 
 https://blog.timescale.com/timescaledb-vs-influxdb-for-time-series-data-timescale-influx-sql-nosql-36489299877
-TimescaleDB vs. InfluxDB: purpose built differently for time-series data
-Mike Freedman
+
+TimescaleDB vs. InfluxDB: purpose built differently for time-series data \
+Mike Freedman \
 Timescale Blog
 
 
